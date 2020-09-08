@@ -73,3 +73,11 @@ int main(){
 
     return 0;    
 }
+
+
+// Output:
+
+// Fraction f1    = 10 / 2
+// Fraction f2    = 15 / 4
+// Fraction f1+f2 = 35 / 4
+// Fraction f2    = 15 / 4
