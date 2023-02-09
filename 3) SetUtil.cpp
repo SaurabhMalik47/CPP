@@ -8,7 +8,7 @@ struct compare
 		if (a.first == b.first)
 			return a.second > b.second; // Decreasing
 		else
-			return a.first < b.first;	// Increasing
+			return a.first < b.first;  // Increasing
 	}
 };
 
